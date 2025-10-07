@@ -77,5 +77,26 @@ The following analyses and visualizations were conducted:
 
 ---
 
-## 📂 Project Structure
+## 🧾 Conclusion
+
+This analysis offers valuable insights into Airbnb’s pricing patterns, neighborhood behavior, and host activity.  
+Future work could include:
+- Predicting prices using machine learning models.
+- Studying the correlation between reviews and booking rates.
+- Building an interactive dashboard using Streamlit or Power BI.
+
+---
+
+## 👨‍💻 Author
+
+**Mohammed Mudasir Ahmed**  
+📧 [YourEmail@example.com]  
+🎓 Muffakham Jah College of Engineering and Technology  
+💻 *AI & ML Undergraduate | Data Science Enthusiast*  
+
+---
+
+## 🏷️ License
+
+This project is open-source and available under the [MIT License](LICENSE).
 
