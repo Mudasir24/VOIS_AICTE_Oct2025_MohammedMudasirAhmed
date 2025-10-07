@@ -35,25 +35,21 @@ The following analyses and visualizations were conducted:
    - Compared average prices among Bronx, Brooklyn, Manhattan, Queens, and Staten Island.  
    - Used a bar chart to represent average pricing distribution.
 
-   ![Average Price by Neighborhood Group](images/avg_price_by_neighborhood.png)
 
 2. **Room Type Distribution**  
    - Analyzed proportions of room types (Entire home/apt, Private room, etc.).  
    - Visualized using a pie chart.
 
-   ![Room Type Distribution](images/room_type_distribution.png)
 
 3. **Top Hosts by Number of Listings**  
    - Identified hosts with the most properties listed.  
    - Displayed using a horizontal bar chart.
 
-   ![Top Hosts](images/top_hosts.png)
 
 4. **Availability Analysis**  
    - Examined how many days listings are available per year.  
    - Showed availability trends across neighborhoods.
 
-   ![Availability per Year](images/availability_per_year.png)
 
 ---
 
@@ -90,9 +86,7 @@ Future work could include:
 ## 👨‍💻 Author
 
 **Mohammed Mudasir Ahmed**  
-📧 [YourEmail@example.com]  
 🎓 Muffakham Jah College of Engineering and Technology  
-💻 *AI & ML Undergraduate | Data Science Enthusiast*  
 
 ---
 
